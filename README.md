@@ -49,6 +49,7 @@ Before you start, you will need to install in your machine the following tools:
 
 * <b>[NPM](https://www.npmjs.com/)</b>
 * <b>[Git](https://git-scm.com)</b>
+* <b>[Postbird] (https://gitlab.com/pavel.evst/postbird)</b>
 
 You will also need an editor, I recommend <b>[VSCode](https://code.visualstudio.com/)</b>
 
